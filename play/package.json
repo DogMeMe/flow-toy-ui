@@ -1,0 +1,13 @@
+{
+  "name": "@flow-toy-ui/play",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vue-tsc": "^2.0.21"
+  }
+}

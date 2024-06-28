@@ -1,0 +1,15 @@
+{
+  "name": "@flow-toy-ui/components",
+  "main": "index.ts",
+  "private": "true",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^1.6.0",
+    "@vue/test-utils": "^2.4.6",
+    "jsdom": "^24.1.0"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "async-validator": "^4.2.5"
+  }
+}

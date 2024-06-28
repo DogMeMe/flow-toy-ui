@@ -1,0 +1,6 @@
+{
+  "name": "@flow-toy-ui/utils",
+  "main": "index.ts",
+  "private": "true",
+  "license": "ISC"
+}
